@@ -5,7 +5,7 @@ import './styles.css'
 const TopBar = () => {
     return (
         <div className='topBar'>
-            <h1>Contaz App</h1>
+            <h1>Cazton App</h1>
         </div>
     )
 }

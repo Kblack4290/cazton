@@ -3,6 +3,10 @@
     margin-bottom: 20px;
 }
 
+.numOptions h2 {
+    text-decoration: underline;
+}
+
 .form-check-inline{
     margin: 5px;
 }
