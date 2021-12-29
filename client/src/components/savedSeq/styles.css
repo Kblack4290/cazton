@@ -1,0 +1,12 @@
+.saved{
+    text-align: center;
+}
+
+.saved h2 {
+    text-decoration: underline;
+}
+
+.saved p{
+    font-weight: 500;
+    font-size: large;
+}

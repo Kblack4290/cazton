@@ -1,0 +1,9 @@
+.topBar {
+    width: 100%;
+    overflow: hidden;
+    background-color: #333;
+    padding: 20px;
+    color: #eee;
+    text-align: center;
+    margin-bottom: 30px;
+}
